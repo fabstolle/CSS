@@ -1,0 +1,828 @@
+
+div.contenedorgeneral{
+width: 1900px;
+height: 1100px;
+background-color: silver;
+border:none;
+}
+
+div{
+	width:95px;
+	height:95px;
+	border:solid 1px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+
+}
+.atomico{
+	font-size:10px;
+	line-height:0px;
+}
+
+.simbolo{
+	font-size:25px;
+	line-height: 0px;
+}
+
+.nombre{
+	font-size:10px;
+	margin-top: -15px;
+}
+
+.peso{
+	font-size:8px;
+	margin-top: -15px;
+}
+
+.gas{
+	background:#773ec7;
+}
+
+.gas:hover{
+	background:#6d87ad;
+}
+
+#eq1{
+	position: absolute;
+	top: 100px; left:100px;
+		}
+		.alcalino{
+		background: #773ec7;
+
+		}
+
+		.alcalino:hover{
+		background: #6d87ad;
+
+		}
+
+#eq3{
+	position: absolute;
+	top: 200px; left:100px;
+}
+
+#eq11{
+	position: absolute;
+	top: 300px; left:100px;
+}
+
+#eq19{
+	position: absolute;
+	top: 400px; left:100px;
+}
+
+#eq37{
+	position: absolute;
+	top: 500px; left:100px;
+}
+
+#eq55{
+	position: absolute;
+	top: 600px; left:100px;
+}
+
+#eq87{
+	position: absolute;
+	top: 700px; left:100px;
+}
+
+
+#eq4{
+	position: absolute;
+	top: 200px; left:200px;
+}
+
+		.alca2{
+		background: #773ec7;
+
+		}
+
+		.alca2:hover{
+		background: #6d87ad;
+
+		}
+
+#eq12{
+	position: absolute;
+	top: 300px; left:200px;
+}
+#eq20{
+	position: absolute;
+	top: 400px; left:200px;
+}
+#eq38{
+	position: absolute;
+	top: 500px; left:200px;
+}
+#eq56{
+	position: absolute;
+	top: 600px; left:200px;
+}
+#eq88{
+	position: absolute;
+	top: 700px; left:200px;
+}
+
+
+		.met_trans{
+		background: #dea787;
+
+		}
+
+		.met_trans:hover{
+		background: #b58569;
+
+		}
+
+#eq21{
+	position: absolute;
+	top: 400px; left:300px;
+}
+
+#eq39{
+	position: absolute;
+	top: 500px; left:300px;
+}
+
+#eq71{
+	position: absolute;
+	top: 600px; left:300px;
+}
+
+#eq103{
+	position: absolute;
+	top: 700px; left:300px;
+}
+
+
+
+#eq22{
+	position: absolute;
+	top: 400px; left:400px;
+}
+
+#eq40{
+	position: absolute;
+	top: 500px; left:400px;
+}
+
+#eq72{
+	position: absolute;
+	top: 600px; left:400px;
+}
+
+#eq104{
+	position: absolute;
+	top: 700px; left:400px;
+}
+
+#eq23{
+	position: absolute;
+	top: 400px; left:500px;
+}
+
+#eq41{
+	position: absolute;
+	top: 500px; left:500px;
+}
+
+#eq73{
+	position: absolute;
+	top: 600px; left:500px;
+}
+
+#eq105{
+	position: absolute;
+	top: 700px; left:500px;
+}
+#eq24{
+	position: absolute;
+	top: 400px; left:600px;
+}
+
+#eq42{
+	position: absolute;
+	top: 500px; left:600px;
+}
+
+#eq74{
+	position: absolute;
+	top: 600px; left:600px;
+}
+
+#eq106{
+	position: absolute;
+	top: 700px; left:600px;
+}
+
+#eq25{
+	position: absolute;
+	top: 400px; left:700px;
+}
+
+#eq43{
+	position: absolute;
+	top: 500px; left:700px;
+}
+
+#eq75{
+	position: absolute;
+	top: 600px; left:700px;
+}
+
+#eq107{
+	position: absolute;
+	top: 700px; left:700px;
+}
+#eq26{
+	position: absolute;
+	top: 400px; left:800px;
+}
+
+#eq44{
+	position: absolute;
+	top: 500px; left:800px;
+}
+
+#eq76{
+	position: absolute;
+	top: 600px; left:800px;
+}
+
+#eq108{
+	position: absolute;
+	top: 700px; left:800px;
+}
+#eq27{
+	position: absolute;
+	top: 400px; left:900px;
+}
+
+#eq45{
+	position: absolute;
+	top: 500px; left:900px;
+}
+
+#eq77{
+	position: absolute;
+	top: 600px; left:900px;
+}
+
+#eq109{
+	position: absolute;
+	top: 700px; left:900px;
+}
+#eq28{
+	position: absolute;
+	top: 400px; left:1000px;
+}
+
+#eq28{
+	position: absolute;
+	top: 400px; left:1000px;
+}
+
+#eq46{
+	position: absolute;
+	top: 500px; left:1000px;
+}
+
+#eq78{
+	position: absolute;
+	top: 600px; left:1000px;
+}
+
+#eq110{
+	position: absolute;
+	top: 700px; left:1000px;
+}
+#eq29{
+	position: absolute;
+	top: 400px; left:1100px;
+}
+
+#eq47{
+	position: absolute;
+	top: 500px; left:1100px;
+}
+
+#eq79{
+	position: absolute;
+	top: 600px; left:1100px;
+}
+
+#eq111{
+	position: absolute;
+	top: 700px; left:1100px;
+}
+#eq30{
+	position: absolute;
+	top: 400px; left:1200px;
+}
+
+#eq48{
+	position: absolute;
+	top: 500px; left:1200px;
+}
+
+#eq80{
+	position: absolute;
+	top: 600px; left:1200px;
+}
+
+#eq112{
+	position: absolute;
+	top: 700px; left:1200px;
+}
+
+		.otrosmetales{
+		background: #cfa029;
+
+		}
+
+		.otrosmetales:hover{
+		background: #f2be3a;
+
+		}
+
+#eq111{
+	position: absolute;
+	top: 700px; left:1100px;
+}
+#eq13{
+	position: absolute;
+	top: 300px; left:1300px;
+}
+#eq31{
+	position: absolute;
+	top: 400px; left:1300px;
+}
+
+#eq49{
+	position: absolute;
+	top: 500px; left:1300px;
+}
+
+#eq81{
+	position: absolute;
+	top: 600px; left:1300px;
+}
+
+#eq113{
+	position: absolute;
+	top: 700px; left:1300px;
+}
+		.metaloides{
+		background: #cfa029;
+
+		}
+
+		.metaloides:hover{
+		background: #f2be3a;
+
+		}
+
+#eq5{
+	position: absolute;
+	top: 200px; left:1300px;
+}
+#eq14{
+	position: absolute;
+	top: 300px; left:1400px;
+}
+#eq32{
+	position: absolute;
+	top: 400px; left:1400px;
+}
+#eq33{
+	position: absolute;
+	top: 400px; left:1500px;
+}
+#eq51{
+	position: absolute;
+	top: 500px; left:1500px;
+}
+#eq52{
+	position: absolute;
+	top: 500px; left:1600px;
+}
+#eq84{
+	position: absolute;
+	top: 600px; left:1600px;
+}
+#eq50{
+	position: absolute;
+	top: 500px; left:1400px;
+}
+#eq82{
+	position: absolute;
+	top: 600px; left:1500px;
+}
+#eq114{
+	position: absolute;
+	top: 600px; left:1400px;
+}
+#eq83{
+	position: absolute;
+	top: 700px; left:1400px;
+}
+#eq115{
+	position: absolute;
+	top: 700px; left:1500px;
+}
+#eq116{
+	position: absolute;
+	top: 700px; left:1600px;
+}
+#eq117{
+	position: absolute;
+	top: 400px; left:1600px;
+}
+#eq118{
+	position: absolute;
+	top: 300px; left:1600px;
+}
+#eq119{
+	position: absolute;
+	top: 300px; left:1500px;
+}
+#eq120{
+	position: absolute;
+	top: 200px; left:1600px;
+}
+	
+#eq121{
+	position: absolute;
+	top: 200px; left:1400px;
+}
+	
+#eq122{
+	position: absolute;
+	top: 200px; left:1500px;
+}
+#eq123{
+	position: absolute;
+	top: 100px; left:1700px;
+}
+#eq124{
+	position: absolute;
+	top: 200px; left:1700px;
+}
+#eq125{
+	position: absolute;
+	top: 300px; left:1700px;
+}
+#eq126{
+	position: absolute;
+	top: 400px; left:1700px;
+}
+#eq127{
+	position: absolute;
+	top: 500px; left:1700px;
+}	
+
+#eq128{
+	position: absolute;
+	top: 600px; left:1700px;
+}
+#eq129{
+	position: absolute;
+	top: 700px; left:1700px;
+
+
+}		#verde{
+		background: #1be049;
+
+		}
+
+		#verde:hover{
+		background: #068c25;
+
+		}
+
+.verde1{
+	position: absolute;
+	top: 950px; left:300px;
+}
+.verde2{
+	position: absolute;
+	top: 950px; left:400px;
+}
+.verde3{
+	position: absolute;
+	top: 950px; left:500px;
+}
+
+.verde4{
+	position: absolute;
+	top: 950px; left:600px;
+}
+
+.verde5{
+	position: absolute;
+	top: 950px; left:700px;
+}
+
+.verde6{
+	position: absolute;
+	top: 950px; left:800px;
+}
+
+.verde7{
+	position: absolute;
+	top: 950px; left:900px;
+}
+
+.verde8{
+	position: absolute;
+	top: 950px; left:1000px;
+}
+.verde9{
+	position: absolute;
+	top: 950px; left:700px;
+}
+
+.verde10{
+	position: absolute;
+	top: 950px; left:800px;
+}
+
+.verde11{
+	position: absolute;
+	top: 950px; left:900px;
+}
+
+.verde12{
+	position: absolute;
+	top: 950px; left:1000px;
+}
+.verde13{
+	position: absolute;
+	top: 950px; left:1100px;
+}
+
+.verde14{
+	position: absolute;
+	top: 950px; left:1200px;
+}
+
+.verde15{
+	position: absolute;
+	top: 950px; left:1300px;
+}
+
+.verde16{
+	position: absolute;
+	top: 950px; left:1400px;
+}
+
+.verde17{
+	position: absolute;
+	top: 950px; left:1500px;
+}
+
+.verde18{
+	position: absolute;
+	top: 850px; left:300px;
+}
+.verde19{
+	position: absolute;
+	top: 850px; left:400px;
+}
+.verde20{
+	position: absolute;
+	top: 850px; left:500px;
+}
+
+.verde21{
+	position: absolute;
+	top: 850px; left:600px;
+}
+
+.verde22{
+	position: absolute;
+	top: 850px; left:700px;
+}
+
+.verde23{
+	position: absolute;
+	top: 850px; left:800px;
+}
+
+.verde24{
+	position: absolute;
+	top: 850px; left:900px;
+}
+
+.verde25{
+	position: absolute;
+	top: 850px; left:1000px;
+}
+.verde26{
+	position: absolute;
+	top: 850px; left:700px;
+}
+
+.verde27{
+	position: absolute;
+	top: 850px; left:800px;
+}
+
+.verde28{
+	position: absolute;
+	top: 850px; left:900px;
+}
+
+.verde29{
+	position: absolute;
+	top: 850px; left:1000px;
+}
+.verde30{
+	position: absolute;
+	top: 850px; left:1100px;
+}
+
+.verde31{
+	position: absolute;
+	top: 850px; left:1200px;
+}
+
+.verde32{
+	position: absolute;
+	top: 850px; left:1300px;
+}
+
+.verde33{
+	position: absolute;
+	top: 850px; left:1400px;
+}
+
+.verde34{
+	position: absolute;
+	top: 850px; left:1500px;
+}
+
+
+div#a1,#a2,#a3,#a4,#a5,#a6,#a7{
+	margin-left: -10px;
+	background: none;
+	border:none;
+	font-size:20px; 
+	font-weight: bold;
+	color:red;
+
+}
+
+div#a1{
+	position: absolute;
+	top: 110px; left:10px;
+
+}	
+
+div#a2{
+	position: absolute;
+	top: 220px; left:10px;
+
+}	
+
+div#a3{
+	position: absolute;
+	top: 320px; left:10px;
+
+}	
+
+div#a4{
+	position: absolute;
+	top: 420px; left:10px;
+
+}	
+div#a5{
+	position: absolute;
+	top: 520px; left:10px;
+
+}	
+
+div#a6{
+	position: absolute;
+	top: 630px; left:10px;
+
+}	
+
+div#a7{
+	position: absolute;
+	top: 720px; left:10px;
+
+}	
+
+div#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9,#b10,#b11,#b12,#b13,#b14,#b15,#b16,#b17,#b18{
+	margin-left: -10px;
+	background: none;
+	border:none;
+	font-size:20px; 
+	font-weight: bold;
+	color:red;
+
+}
+
+div#b1{
+	position: absolute;
+	top: 10px; left:100px;
+
+}	
+div#b2{
+	position: absolute;
+	top: 10px; left:210px;
+
+}	
+
+div#b3{
+	position: absolute;
+	top: 10px; left:310px;
+
+}	
+
+div#b4{
+	position: absolute;
+	top: 10px; left:410px;
+
+}
+
+div#b5{
+	position: absolute;
+	top: 10px; left:510px;
+
+}
+div#b6{
+	position: absolute;
+	top: 10px; left:610px;
+
+}
+div#b7{
+	position: absolute;
+	top: 10px; left:710px;
+
+}
+div#b8{
+	position: absolute;
+	top: 10px; left:810px;
+
+}
+
+div#b9{
+	position: absolute;
+	top: 10px; left:910px;
+
+}
+div#b10{
+	position: absolute;
+	top: 10px; left:1010px;
+
+}
+div#b11{
+	position: absolute;
+	top: 10px; left:1110px;
+
+}
+div#b12{
+	position: absolute;
+	top: 10px; left:1210px;
+
+}
+}
+div#b13{
+	position: absolute;
+	top: 10px; left:1310px;
+
+}
+div#b14{
+	position: absolute;
+	top: 10px; left:1310px;
+
+}
+div#b15{
+	position: absolute;
+	top: 10px; left:1410px;
+
+}
+div#b16{
+	position: absolute;
+	top: 10px; left:1510px;
+
+}
+div#b17{
+	position: absolute;
+	top: 10px; left:1610px;
+
+}
+div#b18{
+	position: absolute;
+	top: 10px; left:1710px;
+
+}
+@media only screen and (max-width: 600px) {
+  body {
+    width:60%;
+  }
+}
