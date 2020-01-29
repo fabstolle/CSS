@@ -790,7 +790,6 @@ div#b12{
 	top: 10px; left:1210px;
 
 }
-}
 div#b13{
 	position: absolute;
 	top: 10px; left:1310px;
@@ -821,8 +820,31 @@ div#b18{
 	top: 10px; left:1710px;
 
 }
-@media only screen and (max-width: 600px) {
-  body {
-    width:60%;
-  }
+
+div#b19{
+	position: absolute;
+	top: 850px; left:-1550px;
+	border: none;
+
+}
+
+div#b20{
+	position: absolute;
+	top: 950px; left:-1550px;
+	border: none;
+
+}
+
+div#group{
+	position: absolute;
+	top: -950px; left:-150px;
+	border: none;
+
+}
+
+
+
+@media (min-width: 700px) {
+
+
 }
